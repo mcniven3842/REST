@@ -1,8 +1,8 @@
 # TP1 REST
 
 ## General Info
-***
 The project consists of 4 services, the services are:
+***
 *[movie]
 *[showtime]
 *[booking]
