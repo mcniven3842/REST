@@ -1,6 +1,7 @@
 # TP1 REST
 
-## General Info 
+## General Info
+***
 The project consists of 4 services, the services are:
 *[movie]
 *[showtime]
@@ -14,6 +15,7 @@ The files inside the folder are:
 *[databases folder with the .json file that holds the service data]
 
 ## Technologies
+***
 * [Python]: Version 3.10 
 * [Docker]
 
