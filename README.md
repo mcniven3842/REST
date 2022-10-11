@@ -6,7 +6,9 @@ The project consists of 4 services, the services are:
 * [showtime]
 * [booking]
 * [user]
+
 The files inside the folder are:
+
 * [Main server file (*.py)]
 * [Dockerfile to build service image]
 * [Python library requirements (requirements.txt)]
