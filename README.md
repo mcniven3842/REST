@@ -1,10 +1,22 @@
 # TP1 REST
 
-## Info
+## Technologies
 The project consists of 4 services, the services are:
+* [movie]
+* [showtime]
+* [booking]
+* [user]
+
+## Technologies
+***
+* [Python]: Version 3.10 
+* [Docker]
+
+## Info
+
 ***
 *[]movie
-*[]showtime
+*[]
 *[]booking
 *[]user
 The files inside the folder are:
@@ -13,11 +25,6 @@ The files inside the folder are:
 *[Python library requirements (requirements.txt)]
 *[OpenAPI specification (*.yaml)]
 *[databases folder with the .json file that holds the service data]
-
-## Technologies
-***
-* [Python]: Version 3.10 
-* [Docker]
 
 ## Implementation
 inside the terminal run the following command:
